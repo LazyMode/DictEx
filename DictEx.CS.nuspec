@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>DictEx.CS</id>
+        <version>0.0-Absolution</version>
+        <authors>Licshee</authors>
+        <projectUrl>https://github.com/OmniKits/DictEx</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>-</description>
+    </metadata>
+    <files>
+        <file src="DictionaryEx\DictionaryEx.cs" target="content\DictionaryEx.cs" />
+        <file src="DictionaryEx\ExRefTricks\DictionaryExRefTricks.cs" target="content\ExRefTricks\DictionaryExRefTricks.cs" />
+    </files>
+</package>

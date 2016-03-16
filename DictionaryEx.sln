@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "DictionaryEx", "DictionaryEx\DictionaryEx.shproj", "{E77CEF87-CCFE-40AE-B37C-943FCFAF924F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryEx.Portable", "DictionaryEx.Portable\DictionaryEx.Portable.csproj", "{B990B316-4D2C-4AEC-826F-5376A19951DD}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		DictionaryEx\DictionaryEx.projitems*{b990b316-4d2c-4aec-826f-5376a19951dd}*SharedItemsImports = 4
+		DictionaryEx\DictionaryEx.projitems*{e77cef87-ccfe-40ae-b37c-943fcfaf924f}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B990B316-4D2C-4AEC-826F-5376A19951DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B990B316-4D2C-4AEC-826F-5376A19951DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B990B316-4D2C-4AEC-826F-5376A19951DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B990B316-4D2C-4AEC-826F-5376A19951DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
